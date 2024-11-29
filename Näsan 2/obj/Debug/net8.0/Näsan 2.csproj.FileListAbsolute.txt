@@ -12,3 +12,4 @@ c:\Users\samuel.skoog\Documents\Programering 2\Näsan 2\Näsan 2\obj\Debug\net8.
 c:\Users\samuel.skoog\Documents\Programering 2\Näsan 2\Näsan 2\obj\Debug\net8.0\Näsan 2.pdb
 c:\Users\samuel.skoog\Documents\Programering 2\Näsan 2\Näsan 2\obj\Debug\net8.0\Näsan 2.genruntimeconfig.cache
 c:\Users\samuel.skoog\Documents\Programering 2\Näsan 2\Näsan 2\obj\Debug\net8.0\ref\Näsan 2.dll
+c:\Users\samuel.skoog\Documents\Programering 2\Näsan 2\Näsan 2\obj\Debug\net8.0\Näsan 2.sourcelink.json
